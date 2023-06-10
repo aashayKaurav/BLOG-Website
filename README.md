@@ -45,7 +45,7 @@ This project is licensed under the MIT License.
 ## Contact
 If you have any questions or need further assistance, please feel free to contact at:
 
-  Name: Aashay Kaurav
-  Email: aashay.kaurav@gmail.com
+  **Name:** Aashay Kaurav<br>
+  **Email:** aashay.kaurav@gmail.com<br>
   
 Thank you for choosing this Blog website. I hope you enjoy it while using it!
