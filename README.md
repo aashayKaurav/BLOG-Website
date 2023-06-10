@@ -13,9 +13,9 @@ The Blog Website is a platform designed to provide an interactive and engaging e
   7. Responsive design for seamless access on different devices.
   
 ## Technologies Used:
-  -**Frontend:** HTML5, CSS3, JavaScript, ReactJS
-  -**Backend:** Node.js, Express.js
-  -**Database:** MongoDB
+  **Frontend:** HTML5, CSS3, JavaScript, ReactJS <br>
+  **Backend:** Node.js, Express.js <br>
+  **Database:** MongoDB <br>
   
 ## Installation and Setup:
 To set up the project locally, follow these steps:
